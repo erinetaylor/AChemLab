@@ -4,4 +4,4 @@ Authors: Erin Taylor
 
 Content:
 * Popcorn Lab: A fun and tasty lab
-* Mentos + Diet Coke: A funnier lab
+* Mentos + Diet Coke: A more interesting lab
