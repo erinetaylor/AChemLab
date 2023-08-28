@@ -10,4 +10,4 @@ Content:
 * 🪥 SmileShield: Determination of Fluoride Using Ion Selective Electrodes
 * 🐮 MooGlow: Determination of Riboflavin Using Fluorescence Spectroscopy
 * 🌶️ HeatWave II: HPLC Data Analysis
-* 🪙 PennyWise III: Data Analysis of Copper in a US Penny
+* 💲 PennyWise III: Data Analysis of Copper in a US Penny
